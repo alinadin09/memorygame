@@ -10,4 +10,4 @@ There were a great many resources I used to complete this project! Mike Wales' v
 
 The [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp)'s section on modals was also helpful.
 
-I also looked at code from two of my fellow classmates [Deb](https://github.com/DebBugging/Memory-Game--Udacity-FEND/blob/master/css/app.css) and [Matt](https://github.com/mattdahlseid/national-parks-memory-game/blob/master/css/styles.css) to see how they set up their timer and rating logic, and styling. I also looked at [Sammich](https://codepen.io/YOURsammich/pen/RyeOoz)'s code to see how I could modify my CSS for proper responsiveness.
+I also looked at code from two of my fellow classmates [Deb](https://github.com/DebBugging/Memory-Game--Udacity-FEND/blob/master/css/app.css) and [Matt](https://github.com/mattdahlseid/national-parks-memory-game/blob/master/css/styles.css) to see how they set up their timer and rating logic. I also looked at [Sammich](https://codepen.io/YOURsammich/pen/RyeOoz)'s code to see how I could modify my CSS for proper responsiveness.
