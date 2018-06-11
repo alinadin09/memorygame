@@ -176,7 +176,7 @@ function setTimer() {
   }
 
 function win() {
-  if (matches.length == 2) {
+  if (matches.length == 16) {
     console.log("Winner!");
     clearTimer();
     modalContent.insertBefore(div, modalContent.childNodes[2]);
