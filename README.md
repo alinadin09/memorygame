@@ -1,6 +1,10 @@
 # Memory Game Project
 
-This project was completed as part of the 2nd project requirement for the fend nanodegree. The game involves flipping 2 cards at a time to see if the icons match. If they do, they stay open, otherwise they close again. When all 16 cards have been matched, the player wins the game. Once he wins, he is told how long it took him and what his star rating was. 
+This project was completed as part of the 2nd project requirement for the front-end web deverloper nanodegree. The game involves flipping 2 cards at a time to see if the icons match. If they do, they stay open, otherwise they close again. When all 16 cards have been matched, the player wins the game. Once he wins, he is told how long it took him and what his star rating was. The star rating is determined by the following:
+
+* Completing the game in 16 moves or less is 3 stars;
+* 18-34 moves is 2 stars; 
+* 35 moves or more is 1 star.
 
 I created this project according to the [rubric](https://review.udacity.com/#!/rubrics/591/view) given by Udacity
 
