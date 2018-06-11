@@ -6,7 +6,15 @@ This project was completed as part of the 2nd project requirement for the front-
 * 18-34 moves is 2 stars; 
 * 35 moves or more is 1 star.
 
-I created this project according to the [rubric](https://review.udacity.com/#!/rubrics/591/view) given by Udacity
+I created this project according to the [rubric](https://review.udacity.com/#!/rubrics/591/view) given by Udacity.
+
+## Dependencies
+
+This project uses:
+
+* [Bootstrap](https://www.bootstrapcdn.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [Google Fonts](https://fonts.google.com/)
 
 ## Contributing
 
